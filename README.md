@@ -8,7 +8,8 @@ An interactive Business Intelligence project exploring European holiday costs, c
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](dashboard_screenshot.jpg)
+<img width="1527" height="858" alt="image" src="https://github.com/user-attachments/assets/7539abda-b9fa-4d88-bf09-7fc939c411fe" />
+
 
 ## 🗺️ Project Roadmap
 
