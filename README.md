@@ -29,7 +29,7 @@ An interactive Business Intelligence project exploring European holiday costs, c
 ### Top 10 Deal Ranking Measure
 
 ```dax
-Top 5 Filter_ =
+Top 10 Filter_ =
 VAR RowRank =
     RANKX(
         ALLSELECTED(Top_Deals_Summary),
